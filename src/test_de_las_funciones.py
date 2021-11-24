@@ -7,3 +7,4 @@ def test_funcion_lectura():
     print(test_lect[:3])
 test_funcion_lectura()
 #con esta funcion comprobamos que la función de lectura funciona correctamente
+
